@@ -1,36 +1,76 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Brandon VIRY - Portfolio
 
-## Getting Started
+Portfolio personnel de Brandon VIRY, Full-Stack Product Maker. Consultez-le sur [craft.viry-brandon.fr](https://craft.viry-brandon.fr).
 
-First, run the development server:
+## 🚀 Technologies
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- **Framework**: [Next.js 14](https://nextjs.org/) avec App Router
+- **Styles**: [Tailwind CSS](https://tailwindcss.com/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Interactions**: [@use-gesture/react](https://use-gesture.netlify.app/)
+- **Déploiement**: [Vercel](https://vercel.com)
+- **Police**: Neue Machina
+
+## 🎨 Design
+
+- **Couleurs**:
+  - Fond: #000000 (noir)
+  - Principal: #00A8E8 (bleu néon)
+  - Accent: #FF3B3F (rouge vif)
+  - Texte: #FFFFFF (blanc)
+
+## 🏗️ Structure
+
+```
+craft_portfolio/
+├── public/          # Assets statiques
+├── src/
+│   ├── app/        # Pages et layout principal
+│   ├── components/ # Composants réutilisables
+│   ├── layout/     # Composants de mise en page
+│   └── fonts/      # Polices Neue Machina
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Installation
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Clonez le repository :
+```bash
+git clone <votre-repo-url>
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+2. Installez les dépendances :
+```bash
+npm install
+```
 
-## Learn More
+3. Lancez le serveur de développement :
+```bash
+npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+4. Ouvrez [http://localhost:3000](http://localhost:3000)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🌐 SEO
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Meta tags optimisés
+- Open Graph pour le partage social
+- Sitemap XML
+- Robots.txt
+- Progressive Web App (PWA) ready
 
-## Deploy on Vercel
+## 📱 Caractéristiques
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Design responsive
+- Animations fluides
+- Interactions tactiles optimisées
+- Chargement optimisé des polices
+- Thème sombre par défaut
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📫 Contact
+
+- LinkedIn: [Brandon VIRY](https://linkedin.com/in/brandon-viry-81187b237)
+- Instagram: [@virybrandon](https://instagram.com/virybrandon/)
+
+## 📝 License
+
+Tous droits réservés © 2025 Brandon VIRY
