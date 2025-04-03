@@ -1,0 +1,6 @@
+# https://craft.viry-brandon.fr/robots.txt
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://craft.viry-brandon.fr/sitemap.xml
